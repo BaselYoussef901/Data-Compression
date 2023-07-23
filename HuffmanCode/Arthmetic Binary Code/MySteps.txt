@@ -1,0 +1,80 @@
+BinaryCode: 0.9375
+Float: 0.9375
+Decode: C
+Shifts: 2
+tempCheck: 1111
+Index: 2   Char: C
+Lower: 0.20000005
+Upper: 1.0
+
+
+BinaryCode: 0.8125
+Float: 0.765625
+Decode: CB
+Shifts: 5
+tempCheck: 1101
+Index: 1   Char: B
+Lower: 0.07999992
+Upper: 0.72000027
+
+
+BinaryCode: 0.625
+Float: 0.85156214
+Decode: CBC
+Shifts: 7
+tempCheck: 1010
+Index: 2   Char: C
+Lower: 0.36800075
+Upper: 0.88000107
+
+
+BinaryCode: 0.5
+Float: 0.2578109
+Decode: CBCA
+Shifts: 7
+tempCheck: 1000
+Index: 0   Char: A
+Lower: 0.36800075
+Upper: 0.726401
+
+
+BinaryCode: 0.375
+Float: 0.375
+Decode: A
+Shifts: 0
+tempCheck: 0110
+Index: 0   Char: A
+Lower: 0.0
+Upper: 0.7
+
+
+BinaryCode: 0.375
+Float: 0.53571427
+Decode: AA
+Shifts: 1
+tempCheck: 0110
+Index: 0   Char: A
+Lower: 0.0
+Upper: 0.97999996
+
+
+BinaryCode: 0.75
+Float: 0.7653062
+Decode: AAB
+Shifts: 2
+tempCheck: 1100
+Index: 1   Char: B
+Lower: 0.37199998
+Upper: 0.76399994
+
+
+BinaryCode: 0.5
+Float: 0.3265307
+Decode: AABA
+Shifts: 2
+tempCheck: 1000
+Index: 0   Char: A
+Lower: 0.37199998
+Upper: 0.6464
+
+

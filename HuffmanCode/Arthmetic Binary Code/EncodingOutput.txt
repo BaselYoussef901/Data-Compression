@@ -1,0 +1,6 @@
+Encoding:         01001000100
+Original Size:    40
+Original In Bits: 6
+Compressed Size:  11
+Compressed In Bits: 4
+BinaryFloatCode:      0.28320312
