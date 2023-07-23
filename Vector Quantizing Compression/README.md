@@ -40,3 +40,9 @@ Compressed Image:
 
 ![CompressedImage](https://github.com/Besbol100/Data-Compression/assets/113455518/83adf990-5e8a-4fa1-b5c0-e2c508637438)
 [Compressed Size: 1.92 KB]
+
+---
+>>>
+The More you play on CodeBlock The more the result changes!
+Which is fun try it on more big and colorful images with different CodeBlocks as [16,32,128].
+on this project i'm using 64.
