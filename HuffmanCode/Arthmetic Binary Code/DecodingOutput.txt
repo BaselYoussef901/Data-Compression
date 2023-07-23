@@ -1,6 +1,0 @@
-Decoding:         AABA
-Original Size:    32
-Original In Bits: 6
-Compressed Size:  6
-Original In Bits: 3
-BinaryFloatCode:  0.3265307
