@@ -5,6 +5,7 @@ First we need our inputs which are:
 image:
 ![_Original_Image](https://github.com/Besbol100/Data-Compression/assets/113455518/d5d6450a-71df-43f7-9252-978113514142)
 [Original Size: 258 KB]
+
 Vector Information which is in "_InputDataToCompress.txt" in _InputsDaata File [Width - Height - CodeBlock] of the vectors
 
 Image Information:
@@ -30,6 +31,7 @@ Original Image:
 
 >>>![CheckOn](https://github.com/Besbol100/Data-Compression/assets/113455518/6b33080c-90a0-4eeb-86f7-7a34faa12889)
 [Original Size: 2.52 KB]
+
 Image Information:
 
 ![Image Information 2](https://github.com/Besbol100/Data-Compression/assets/113455518/efc8c39f-ad8a-4083-a12d-963081fc0c63)
