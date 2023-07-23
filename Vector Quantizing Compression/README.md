@@ -4,12 +4,13 @@ This Program is to Reduce image size into grey level colors..
 First we need our inputs which are:
 image:
 ![_Original_Image](https://github.com/Besbol100/Data-Compression/assets/113455518/d5d6450a-71df-43f7-9252-978113514142)
+[Original Size: 258 KB]
 Vector Information which is in "_InputDataToCompress.txt" in _InputsDaata File [Width - Height - CodeBlock] of the vectors
 
 Image Information:
 
 ![Image Information 1](https://github.com/Besbol100/Data-Compression/assets/113455518/810ba022-f363-4202-9a8f-70053a772b75)
-[Original Size: 258 KB]
+
 >>> What the Code Doin! <<<
 all details in "_TextFilesOut" which is
 1- ImageData.txt is for converting the Image into numbered Pixeled in Grey Level
@@ -28,11 +29,11 @@ __another Example to show Image Scaling is Important:
 Original Image:
 
 >>>![CheckOn](https://github.com/Besbol100/Data-Compression/assets/113455518/6b33080c-90a0-4eeb-86f7-7a34faa12889)
-
+[Original Size: 2.52 KB]
 Image Information:
 
 ![Image Information 2](https://github.com/Besbol100/Data-Compression/assets/113455518/efc8c39f-ad8a-4083-a12d-963081fc0c63)
-[Original Size: 2.52 KB]
+
 Compressed Image:
 
 ![CompressedImage](https://github.com/Besbol100/Data-Compression/assets/113455518/83adf990-5e8a-4fa1-b5c0-e2c508637438)
